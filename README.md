@@ -7,6 +7,9 @@ Welcome to the Chatbot Greeting Demo! This simple chatbot is designed to greet u
 
 This chatbot project demonstrates a basic greeting functionality. When a user interacts with the chatbot, it responds with a friendly greeting message.
 
+![Chatbot Greeting](https://github.com/shavybachata/Greeting_ChatBot/blob/main/img1.png?raw=true)
+![Chatbot Greeting](https://github.com/shavybachata/Greeting_ChatBot/blob/main/img2.png?raw=true)
+
 ## Features
 
 - **Greeting Functionality**: The chatbot is capable of greeting users when they initiate a conversation.
