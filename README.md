@@ -26,6 +26,7 @@ To try out the Chatbot Greeting Demo:
 ## Usage
 
 Once the chatbot is running, simply type a message to initiate a conversation. The chatbot will respond with a greeting message.
-
+If want to access only chatbot use this link [Link Text](https://bot.dialogflow.com/81378f99-db34-49e3-841b-852e53f1320c
+) 
 
 
